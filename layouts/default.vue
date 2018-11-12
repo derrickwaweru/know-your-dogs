@@ -1,7 +1,6 @@
 <template>
   <div class="layout">
-    <h1>Welcome to the dogs world</h1>
-    <h1>Click and Know Your Dog!</h1>
+    <h1>Know Your Dog!</h1>
     <nuxt/>
   </div>
 </template>
